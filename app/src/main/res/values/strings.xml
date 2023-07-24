@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScarioFolds</string>
+    <string name="drawer_home">Home Drawer</string>
+    <string name="drawer_home_description">This is Home drawer</string>
+    <string name="drawer_settings">Settings Drawer</string>
+    <string name="drawer_settings_description">This is settings drawer</string>
+    <string name="drawer_about">About Drawer</string>
+    <string name="drawer_info_description">This is info drawer</string>
+</resources>
